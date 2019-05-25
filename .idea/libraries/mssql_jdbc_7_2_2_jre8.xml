@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-7.2.2.jre8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mssql-jdbc-7.2.2.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mssql-jdbc-7.2.2.jre8.jar!/com" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mssql-jdbc-7.2.2.jre8.jar!/microsoft" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mssql-jdbc-7.2.2.jre8.jar!/mssql" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
